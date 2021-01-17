@@ -1,0 +1,3 @@
+/home/stand/design_pattern/tetris/build/CMakeFiles/rebuild_cache.dir
+/home/stand/design_pattern/tetris/build/CMakeFiles/main.dir
+/home/stand/design_pattern/tetris/build/CMakeFiles/edit_cache.dir
